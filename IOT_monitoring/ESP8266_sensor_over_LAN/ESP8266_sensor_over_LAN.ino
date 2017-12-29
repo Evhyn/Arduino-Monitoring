@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 #include <DHT.h>
 
-const char* ssid     = "VictoriaAlsut-WDS-Wifi"; // Your ssid
+const char* ssid     = "WDS-Wifi"; // Your ssid
 const char* password = "webdata7"; // Your Password
 
 

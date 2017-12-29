@@ -11,7 +11,7 @@ The hardware setup for this system are as follows:
 
 <p> </p>
 
-I made 4 versions of arduino code. If you are using ESP8266/nodemcu and mySQL to store data, then ESP8266_sensor_over_LAN code is suitable for you.
+I made 4 versions of arduino code. If you are using ESP8266/nodemcu and mySQL to store data, then ESP8266_sensor_DATABASE code is suitable for you.
 
 
 

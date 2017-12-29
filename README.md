@@ -9,10 +9,10 @@ The hardware setup for this system are as follows:
  <li> DHT11 (temperature and humidity sensor).</li>
  <li> Wi-Fi Hotspot.</li>
 
-<div>
+<p> </p>
 
 I made 4 versions of arduino code. If you are using ESP8266/nodemcu and mySQL to store data, then ESP8266_sensor_over_LAN code is suitable for you.
 
-</div>
+
 
 ![alt text](https://github.com/EvhynAndrianto/MonitoringSystem/blob/master/jpgraphresult.jpg)

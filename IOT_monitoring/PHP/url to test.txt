@@ -1,0 +1,3 @@
+http://localhost/Insert_data.php?value1=12&value2=24
+
+http://localhost/get_data.php

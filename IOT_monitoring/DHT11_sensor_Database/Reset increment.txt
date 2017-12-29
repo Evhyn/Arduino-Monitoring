@@ -1,0 +1,3 @@
+SET @num := 0;
+UPDATE dht11 SET id = @num := (@num+1);
+ALTER TABLE dht11 AUTO_INCREMENT =1;
